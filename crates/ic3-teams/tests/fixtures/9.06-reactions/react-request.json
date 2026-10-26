@@ -1,0 +1,23 @@
+{
+  "_comment": "UNVERIFIED(§9.6): the ASSUMED reaction requests (api/mod.rs::reaction_request), for 'like' on message 1760346000000. Adding is a PUT and removing a DELETE of the same URL and body; `value` is the time of the request in ms. {{BASE}} is the chat-service base URL. Compare with the capture of smoke write's react / unreact steps.",
+  "add": {
+    "method": "PUT",
+    "url": "{{BASE}}/v1/users/ME/conversations/19:groupgroupgroup@thread.v2/messages/1760346000000/properties?name=emotions",
+    "body": {
+      "emotions": {
+        "key": "like",
+        "value": 1760346100000
+      }
+    }
+  },
+  "remove": {
+    "method": "DELETE",
+    "url": "{{BASE}}/v1/users/ME/conversations/19:groupgroupgroup@thread.v2/messages/1760346000000/properties?name=emotions",
+    "body": {
+      "emotions": {
+        "key": "like",
+        "value": 1760346100000
+      }
+    }
+  }
+}

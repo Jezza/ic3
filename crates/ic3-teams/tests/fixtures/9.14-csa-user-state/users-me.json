@@ -1,0 +1,41 @@
+{
+  "conversationFolders": {
+    "conversationFolderOrder": ["tenant~user~Favorites", "f-user-1", "tenant~user~QuickViews"],
+    "conversationFolders": [
+      {"id": "tenant~user~Favorites", "folderType": "Favorites", "sortType": "UserDefinedCustomOrder", "isExpanded": true,
+       "conversationFolderItems": [{"conversationId": "19:groupgroupgroup@thread.v2", "createdTime": 1760000000000}]},
+      {"id": "f-user-1", "name": "Projects", "folderType": "UserCreated", "sortType": "MostRecent", "isExpanded": false,
+       "conversationFolderItems": [
+         {"conversationId": "19:aaaaaaaa-1111-1111-1111-111111111111_bbbbbbbb-2222-2222-2222-222222222222@unq.gbl.spaces"},
+         {"conversationId": "19:meeting_abc@thread.v2"}
+       ]},
+      {"id": "f-user-2", "name": "Old", "folderType": "UserCreated", "isDeleted": true, "conversationFolderItems": []},
+      {"id": "tenant~user~QuickViews", "folderType": "QuickViews", "conversationFolderItems": []},
+      {"id": "tenant~user~Brand", "folderType": "BrandNewKind", "conversationFolderItems": []}
+    ]
+  },
+  "chats": [
+    {"id": "19:aaaaaaaa-1111-1111-1111-111111111111_bbbbbbbb-2222-2222-2222-222222222222@unq.gbl.spaces",
+     "title": "", "isOneOnOne": true, "chatType": "chat", "hidden": false, "isMuted": false,
+     "members": [
+       {"mri": "8:orgid:aaaaaaaa-1111-1111-1111-111111111111", "role": "Admin"},
+       {"mri": "8:orgid:bbbbbbbb-2222-2222-2222-222222222222", "role": "Admin", "friendlyName": "Bea Example"}
+     ],
+     "lastMessage": {"originalArrivalTime": "2025-10-13T09:00:00.000Z", "composeTime": "2025-10-13T08:59:59.900Z"}},
+    {"id": "19:groupgroupgroup@thread.v2", "title": "Platform team", "isOneOnOne": false, "chatType": "chat", "isMuted": true,
+     "members": [
+       {"mri": "8:orgid:aaaaaaaa-1111-1111-1111-111111111111", "role": "Admin"},
+       {"mri": "8:orgid:bbbbbbbb-2222-2222-2222-222222222222", "role": "User"},
+       {"mri": "8:orgid:cccccccc-3333-3333-3333-333333333333", "role": "User"}
+     ],
+     "lastMessage": {"composeTime": "2025-10-13T08:00:00.000Z"}},
+    {"id": "19:meeting_abc@thread.v2", "title": "Weekly sync", "isOneOnOne": false, "chatType": "meeting", "hidden": true, "members": []}
+  ],
+  "teams": [
+    {"id": "19:team-general@thread.tacv2", "displayName": "Engineering", "isFavorite": true, "isCollapsed": false, "isArchived": false,
+     "channels": [
+       {"id": "19:team-general@thread.tacv2", "displayName": "General", "channelType": 0, "isGeneral": true, "isFavorite": true},
+       {"id": "19:chan-2@thread.tacv2", "displayName": "Releases", "channelType": "Private", "isPinned": true, "isMuted": true, "isArchived": true}
+     ]}
+  ]
+}

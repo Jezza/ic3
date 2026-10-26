@@ -1,0 +1,15 @@
+{
+  "id": "1760346060000",
+  "type": "Message",
+  "clientmessageid": "17603460599995678",
+  "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+  "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+  "imdisplayname": "Ada Example",
+  "messagetype": "RichText/Html",
+  "contenttype": "text",
+  "content": "<blockquote itemscope=\"\" itemtype=\"http://schema.skype.com/Reply\" itemid=\"1760345000000\"><strong itemprop=\"mri\" itemid=\"8:orgid:bbbbbbbb-2222-2222-2222-222222222222\">Bea Example</strong><span itemprop=\"time\" itemid=\"1760345000000\"></span><p itemprop=\"preview\">ping</p></blockquote><p>yes</p>",
+  "composetime": "2025-10-13T09:00:59.900Z",
+  "originalarrivaltime": "2025-10-13T09:01:00.000Z",
+  "version": "1760346060000",
+  "properties": {}
+}

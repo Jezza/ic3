@@ -1,0 +1,65 @@
+{
+  "conversations": [
+    {
+      "id": "19:aaaaaaaa-1111-1111-1111-111111111111_bbbbbbbb-2222-2222-2222-222222222222@unq.gbl.spaces",
+      "type": "Conversation",
+      "version": 1760345000000,
+      "properties": {
+        "consumptionhorizon": "1760344000000;1760344100000;",
+        "isemptyconversation": "false"
+      },
+      "threadProperties": {
+        "uniquerosterthread": "true",
+        "productThreadType": "OneToOneChat"
+      },
+      "lastMessage": {
+        "id": "1760345000000",
+        "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+        "imdisplayname": "Bea Example",
+        "messagetype": "Text",
+        "content": "ping",
+        "composetime": "2025-10-13T08:43:20.000Z",
+        "originalarrivaltime": "2025-10-13T08:43:20.000Z",
+        "version": "1760345000000",
+        "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:aaaaaaaa-1111-1111-1111-111111111111_bbbbbbbb-2222-2222-2222-222222222222@unq.gbl.spaces"
+      }
+    },
+    {
+      "id": "19:groupgroupgroup@thread.v2",
+      "type": "Conversation",
+      "version": 1760340000000,
+      "properties": {
+        "consumptionhorizon": "1760340000000;1760340001000;"
+      },
+      "threadProperties": {
+        "topic": "Platform team",
+        "productThreadType": "Chat",
+        "membercount": "3"
+      },
+      "lastMessage": {
+        "id": "1760340000000",
+        "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+        "imdisplayname": "Ada Example",
+        "messagetype": "RichText/Html",
+        "content": "<p>deployed</p>",
+        "composetime": "2025-10-13T07:20:00.000Z",
+        "originalarrivaltime": "2025-10-13T07:20:00.000Z",
+        "version": "1760340000000",
+        "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2"
+      }
+    },
+    {
+      "id": "48:calllogs",
+      "type": "Conversation",
+      "version": 1760300000000,
+      "properties": {},
+      "threadProperties": {}
+    }
+  ],
+  "_metadata": {
+    "backwardLink": "{{BASE}}/v1/users/8:orgid:00000000-0000-4000-8000-000000000001/conversations?view=msnp24Equivalent&syncState=c3luYy1zdGF0ZS1leGFtcGxl&pageSize=100",
+    "forwardLink": "",
+    "syncState": "{{BASE}}/v1/users/8:orgid:00000000-0000-4000-8000-000000000001/conversations?view=msnp24Equivalent&syncState=c3luYy1zdGF0ZS1leGFtcGxl&pageSize=100",
+    "totalCount": 3
+  }
+}

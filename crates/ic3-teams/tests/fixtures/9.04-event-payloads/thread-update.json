@@ -1,0 +1,34 @@
+{
+  "id": 1015,
+  "type": "EventMessage",
+  "resourceType": "ThreadUpdate",
+  "time": "2025-10-13T09:04:00.100Z",
+  "resourceLink": "https://de.ng.msg.teams.microsoft.com/v1/threads/19:groupgroupgroup@thread.v2",
+  "resource": {
+    "id": "19:groupgroupgroup@thread.v2",
+    "type": "Thread",
+    "version": 1760346240000,
+    "properties": {
+      "topic": "Platform team (renamed)",
+      "createdat": "1759000000000"
+    },
+    "members": [
+      {
+        "id": "8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+        "userLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+        "role": "Admin",
+        "friendlyName": "Ada Example"
+      },
+      {
+        "id": "8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+        "userLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+        "role": "User",
+        "friendlyname": "Bea Example"
+      },
+      {
+        "linkedMri": "8:orgid:cccccccc-3333-3333-3333-333333333333",
+        "role": "User"
+      }
+    ]
+  }
+}

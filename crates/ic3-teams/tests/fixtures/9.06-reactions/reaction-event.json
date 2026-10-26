@@ -1,0 +1,35 @@
+{
+  "id": 1006,
+  "type": "EventMessage",
+  "resourceType": "MessageUpdate",
+  "time": "2025-10-13T09:01:40.000Z",
+  "resourceLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2/messages/1760346000000",
+  "resource": {
+    "id": "1760346000000",
+    "type": "Message",
+    "clientmessageid": "17603459999991234",
+    "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+    "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+    "imdisplayname": "Ada Example",
+    "messagetype": "RichText/Html",
+    "contenttype": "text",
+    "content": "<p>hello <b>world</b></p>",
+    "composetime": "2025-10-13T08:59:59.900Z",
+    "originalarrivaltime": "2025-10-13T09:00:00.000Z",
+    "version": "1760346100000",
+    "properties": {
+      "emotions": [
+        {
+          "key": "like",
+          "users": [
+            {
+              "mri": "8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+              "time": 1760346100000,
+              "value": "1760346100000"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

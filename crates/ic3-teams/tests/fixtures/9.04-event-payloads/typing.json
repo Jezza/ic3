@@ -1,0 +1,21 @@
+{
+  "id": 1016,
+  "type": "EventMessage",
+  "resourceType": "NewMessage",
+  "time": "2025-10-13T09:05:00.000Z",
+  "resourceLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2/messages/1760346300000",
+  "resource": {
+    "id": "1760346300000",
+    "type": "Message",
+    "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+    "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+    "imdisplayname": "Bea Example",
+    "messagetype": "Control/Typing",
+    "contenttype": "text",
+    "content": "",
+    "composetime": "2025-10-13T09:05:00.000Z",
+    "originalarrivaltime": "2025-10-13T09:05:00.000Z",
+    "version": "1760346300000",
+    "properties": {}
+  }
+}

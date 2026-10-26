@@ -1,0 +1,25 @@
+{
+  "conversations": [
+    {
+      "id": "48:notes",
+      "type": "Conversation",
+      "version": 1760200000000,
+      "properties": {},
+      "threadProperties": {},
+      "lastMessage": {
+        "id": "1760200000000",
+        "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+        "imdisplayname": "Ada Example",
+        "messagetype": "Text",
+        "content": "note to self",
+        "composetime": "2025-10-11T16:26:40.000Z",
+        "originalarrivaltime": "2025-10-11T16:26:40.000Z",
+        "version": "1760200000000",
+        "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/48:notes"
+      }
+    }
+  ],
+  "_metadata": {
+    "totalCount": 4
+  }
+}

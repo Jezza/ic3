@@ -1,0 +1,9 @@
+{
+  "value": [
+    {
+      "mri": "8:orgid:cccccccc-3333-3333-3333-333333333333",
+      "displayName": "Cy Example",
+      "userPrincipalName": "cy@acme.io"
+    }
+  ]
+}

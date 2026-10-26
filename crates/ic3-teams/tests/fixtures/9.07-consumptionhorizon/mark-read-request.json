@@ -1,0 +1,8 @@
+{
+  "_comment": "UNVERIFIED(§9.7): the ASSUMED mark-read request (api/mod.rs::mark_read_body). The value is '{message_id};{now_ms};{client_message_id or empty}'; here message 1760346000000 (client id 17603459999991234) read at 1760346200000. {{BASE}} is the chat-service base URL. Compare with the capture of smoke write's mark read step.",
+  "method": "PUT",
+  "url": "{{BASE}}/v1/users/ME/conversations/19:groupgroupgroup@thread.v2/properties?name=consumptionhorizon",
+  "body": {
+    "consumptionhorizon": "1760346000000;1760346200000;17603459999991234"
+  }
+}

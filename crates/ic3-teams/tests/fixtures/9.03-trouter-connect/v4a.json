@@ -1,0 +1,2 @@
+{ "socketio": "{{BASE}}/", "surl": "https://trouter2-azsc-ince-1-a.trouter.teams.microsoft.com:3443/v4/f/AbCdEf123456/", "ccid": "ccid-xyz",
+  "connectparams": { "sr": "sr-value", "issuer": "prod-2", "sp": "connect", "se": "1760432400", "st": "1760346000", "sig": "sig-value" } }

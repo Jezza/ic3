@@ -1,0 +1,51 @@
+[package]
+name = "ic3-teams"
+description = "Unofficial client library for Microsoft Teams chat (IC3/chatsvc). Unsupported API; may break at any time."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+readme = "README.md"
+keywords = ["teams", "microsoft-teams", "chat", "client", "unofficial"]
+categories = ["api-bindings", "network-programming", "asynchronous"]
+
+[dependencies]
+tokio.workspace = true
+tokio-util.workspace = true
+futures.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+tracing.workspace = true
+async-trait.workspace = true
+chrono.workspace = true
+reqwest = { version = "0.13", features = ["json", "form", "query"] }
+tokio-tungstenite = { version = "0.30", features = ["rustls-tls-webpki-roots"] }
+url = "2.5"
+percent-encoding = "2.3"
+uuid = { version = "1.27", features = ["v4"] }
+rand = "0.9"
+base64 = "0.22"
+flate2 = "1.1"
+scraper = "0.27"
+ego-tree = "0.11"
+html-escape = "0.3"
+regex = "1.11"
+tracing-subscriber = { version = "0.3", features = ["fmt", "env-filter"] }
+
+[dev-dependencies]
+wiremock = "0.6"
+proptest = "1.12"
+tempfile = "3.27"
+tokio = { workspace = true, features = ["test-util"] }
+clap.workspace = true
+directories.workspace = true
+anyhow = "1.0"
+
+[[example]]
+name = "smoke"
+test = true
+
+[lints]
+workspace = true

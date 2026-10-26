@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "id": "1760345400000",
+      "type": "Message",
+      "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+      "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+      "imdisplayname": "Bea Example",
+      "messagetype": "RichText/Html",
+      "contenttype": "text",
+      "content": "<p>msg 11</p>",
+      "composetime": "2025-10-13T08:49:59.900Z",
+      "originalarrivaltime": "2025-10-13T08:50:00.000Z",
+      "version": "1760345400000",
+      "properties": {}
+    },
+    {
+      "id": "1760345340000",
+      "type": "Message",
+      "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+      "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+      "imdisplayname": "Ada Example",
+      "messagetype": "RichText/Html",
+      "contenttype": "text",
+      "content": "<p>msg 12</p>",
+      "composetime": "2025-10-13T08:48:59.900Z",
+      "originalarrivaltime": "2025-10-13T08:49:00.000Z",
+      "version": "1760345340000",
+      "properties": {}
+    }
+  ],
+  "_metadata": {}
+}

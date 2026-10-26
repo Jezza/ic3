@@ -1,0 +1,7 @@
+{
+  "note": "UNVERIFIED(§9.23): what Api::send_message POSTs for a body mentioning Ada then Cy (the clientmessageid and imdisplayname aside).",
+  "content": "<p>hi <readonly class=\"skipProofing\" itemtype=\"http://schema.skype.com/Mention\" spellcheck=\"false\"><span itemtype=\"http://schema.skype.com/Mention\" itemscope itemid=\"0\">Ada Example</span></readonly> and <readonly class=\"skipProofing\" itemtype=\"http://schema.skype.com/Mention\" spellcheck=\"false\"><span itemtype=\"http://schema.skype.com/Mention\" itemscope itemid=\"1\">Cy Example</span></readonly></p>",
+  "properties": {
+    "mentions": "[{\"@type\":\"http://schema.skype.com/Mention\",\"displayName\":\"Ada Example\",\"itemid\":\"0\",\"mentionType\":\"person\",\"mri\":\"8:orgid:aaaaaaaa-1111-1111-1111-111111111111\"},{\"@type\":\"http://schema.skype.com/Mention\",\"displayName\":\"Cy Example\",\"itemid\":\"1\",\"mentionType\":\"person\",\"mri\":\"8:orgid:cccccccc-3333-3333-3333-333333333333\"}]"
+  }
+}

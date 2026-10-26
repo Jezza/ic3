@@ -1,0 +1,77 @@
+{
+  "messages": [
+    {
+      "id": "1760346000000",
+      "type": "Message",
+      "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+      "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+      "imdisplayname": "Bea Example",
+      "messagetype": "RichText/Html",
+      "contenttype": "text",
+      "content": "<p>msg 1</p>",
+      "composetime": "2025-10-13T08:59:59.900Z",
+      "originalarrivaltime": "2025-10-13T09:00:00.000Z",
+      "version": "1760346000000",
+      "properties": {}
+    },
+    {
+      "id": "1760345940000",
+      "type": "Message",
+      "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+      "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+      "imdisplayname": "Ada Example",
+      "messagetype": "RichText/Html",
+      "contenttype": "text",
+      "content": "<p>msg 2</p>",
+      "composetime": "2025-10-13T08:58:59.900Z",
+      "originalarrivaltime": "2025-10-13T08:59:00.000Z",
+      "version": "1760345940000",
+      "properties": {}
+    },
+    {
+      "id": "1760345880000",
+      "type": "Message",
+      "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+      "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+      "imdisplayname": "Bea Example",
+      "messagetype": "RichText/Html",
+      "contenttype": "text",
+      "content": "<p>msg 3</p>",
+      "composetime": "2025-10-13T08:57:59.900Z",
+      "originalarrivaltime": "2025-10-13T08:58:00.000Z",
+      "version": "1760345880000",
+      "properties": {}
+    },
+    {
+      "id": "1760345820000",
+      "type": "Message",
+      "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+      "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:aaaaaaaa-1111-1111-1111-111111111111",
+      "imdisplayname": "Ada Example",
+      "messagetype": "RichText/Html",
+      "contenttype": "text",
+      "content": "<p>msg 4</p>",
+      "composetime": "2025-10-13T08:56:59.900Z",
+      "originalarrivaltime": "2025-10-13T08:57:00.000Z",
+      "version": "1760345820000",
+      "properties": {}
+    },
+    {
+      "id": "1760345760000",
+      "type": "Message",
+      "conversationLink": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/conversations/19:groupgroupgroup@thread.v2",
+      "from": "https://de.ng.msg.teams.microsoft.com/v1/users/ME/contacts/8:orgid:bbbbbbbb-2222-2222-2222-222222222222",
+      "imdisplayname": "Bea Example",
+      "messagetype": "RichText/Html",
+      "contenttype": "text",
+      "content": "<p>msg 5</p>",
+      "composetime": "2025-10-13T08:55:59.900Z",
+      "originalarrivaltime": "2025-10-13T08:56:00.000Z",
+      "version": "1760345760000",
+      "properties": {}
+    }
+  ],
+  "_metadata": {
+    "syncState": "{{BASE}}/v1/users/ME/conversations/19:groupgroupgroup@thread.v2/messages?syncState=def"
+  }
+}

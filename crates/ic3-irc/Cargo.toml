@@ -1,0 +1,40 @@
+[package]
+name = "ic3-irc"
+description = "An IRCv3 server backed by Microsoft Teams chat (ic3-teams)"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+# Not on crates.io yet: ic3-teams goes first.
+publish = false
+
+[dependencies]
+ic3-teams = { version = "0.1.0", path = "../ic3-teams" }
+tokio.workspace = true
+tokio-util.workspace = true
+futures.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+tracing.workspace = true
+async-trait.workspace = true
+chrono.workspace = true
+directories.workspace = true
+clap.workspace = true
+anyhow = "1.0"
+axum = "0.8"
+base64 = "0.22"
+deunicode = "1.6"
+humantime = "2.3"
+rand = "0.9"
+toml = "1.1"
+tracing-subscriber = { version = "0.3", features = ["fmt", "env-filter"] }
+
+[dev-dependencies]
+pretty_assertions = "1.4"
+tempfile = "3.27"
+tokio = { workspace = true, features = ["test-util"] }
+
+[lints]
+workspace = true

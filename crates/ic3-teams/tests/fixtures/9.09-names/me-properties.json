@@ -1,0 +1,6 @@
+{
+  "skypeName": "orgid:aaaaaaaa-1111-1111-1111-111111111111",
+  "primaryMemberName": "ada@acme.io",
+  "userDetails": "{\"name\":\"Ada Example\",\"upn\":\"ada@acme.io\"}",
+  "etag": "x"
+}

@@ -1,0 +1,6 @@
+target/
+captures/
+*.snap.new
+crates/ic3-teams/captures/
+.superpowers/
+.idea/
