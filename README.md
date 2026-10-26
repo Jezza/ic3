@@ -58,7 +58,7 @@ opened from IRC), setting your own presence, calls, renaming chats, avatars.
 ```
 crates/ic3-teams/       library: auth, HTTP, REST API, trouter push, events, store, formatting, media.
 crates/ic3-teams/examples/smoke.rs   the interactive verification tool (docs/verification.md)
-crates/ic3-irc/   the IRC server: connections, the gateway loop on ic3-teams, text rendering, web endpoint
+crates/ic3-irc/   the IRC server (its README covers running it): connections, the gateway loop, text rendering, web endpoint
 docs/             decisions log, unverified assumptions, verification checklist
 tools/            observing a real Teams client (teams-capture), the emoji table generator
 ```
