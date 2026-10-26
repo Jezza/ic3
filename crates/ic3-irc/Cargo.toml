@@ -9,8 +9,6 @@ repository.workspace = true
 readme = "README.md"
 keywords = ["irc", "ircv3", "teams", "microsoft-teams", "bridge"]
 categories = ["network-programming", "command-line-utilities"]
-# Not on crates.io yet: ic3-teams goes first.
-publish = false
 
 [dependencies]
 ic3-teams = { version = "0.1.0", path = "../ic3-teams" }

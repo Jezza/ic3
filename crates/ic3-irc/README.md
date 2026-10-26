@@ -18,7 +18,7 @@ restarts.
 Needs stable Rust 1.98 or newer.
 
 ```sh
-cargo install --git https://github.com/Jezza/ic3 ic3-irc
+cargo install ic3-irc
 ic3-irc                 # IRC on 127.0.0.1:6667, web endpoint on 127.0.0.1:6680
 ```
 
